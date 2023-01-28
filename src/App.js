@@ -18,7 +18,7 @@ const App = () => {
   const [spanArr,setSpanArr]= useState([]);
   const [videoThumbnail,setThumbnails]= useState([]);
   const [seekValue, setSeekValue] = useState([0,0])
-  const gg = 'tes'
+  const gg = 'test'
 
 
   useEffect(()=> {
